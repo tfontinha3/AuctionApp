@@ -11,7 +11,7 @@
 ## Tech Stack
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Django
-- **Database**: SQLite or PostgreSQL
+- **Database**: SQLite
 
 ## How to Use
 1. Clone the repository:
