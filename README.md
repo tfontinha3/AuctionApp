@@ -10,7 +10,7 @@
 
 ## Tech Stack
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: [Django/Flask/Other Backend Framework]
+- **Backend**: Django
 - **Database**: SQLite or PostgreSQL
 
 ## How to Use
