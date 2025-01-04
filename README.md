@@ -33,8 +33,3 @@
    ```
 5. Open the app in your browser:
    `http://127.0.0.1:8000`
-
-## Future Enhancements
-- Implement payment processing for auction winners.
-- Add real-time bidding updates with WebSockets.
-- Support for auction item images.
